@@ -1,0 +1,6 @@
+hello
+debug
+*.out
+*.exe
+*.dSYM/
+.DS_Store
